@@ -1,0 +1,4 @@
+#EXTM3U
+#PLAYLIST:hlscat.com
+#EXTINF:0 tvg-country="US" tvg-logo="" group-title="Undefined",CBS (M)(720)
+http://212.102.60.121:8000/calem7/4BY4CSaMUW/35790?checkedby:hlscat.com
